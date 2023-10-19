@@ -1,0 +1,5 @@
+Id,Date,Transaction,TransactionType
+0,7/15,+60.5,credit
+1,7/28,-10.3,debit
+2,8/2,-20.46,debit
+3,8/13,+10,credit
